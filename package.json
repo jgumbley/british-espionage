@@ -1,0 +1,15 @@
+{
+  "name": "cold-war-timeline",
+  "version": "1.0.0",
+  "description": "A timeline of the cold war",
+  "repository": "https://github.com/jgumbley/cold-war-timeline",
+  "dependencies": {
+    "bower": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
