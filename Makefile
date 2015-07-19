@@ -6,6 +6,7 @@ endef
 
 bower_components: bower.json node_modules
 	node_modules/bower/bin/bower install
+	mkdir www/lib
 	$(call copytolib,"js/timeline.js")
 	$(call copytolib,"js/storyjs-embed.js")
 	$(call copytolib,"css/timeline.css")
@@ -21,4 +22,4 @@ run:
 	cd www && python -m SimpleHTTPServer 8000
 
 clean: 
-	rm -Rf node_modules/ bower_components/
+	rm -Rf node_modules/ bower_components/ www/lib
