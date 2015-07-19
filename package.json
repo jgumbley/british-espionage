@@ -1,8 +1,8 @@
 {
-  "name": "cold-war-timeline",
+  "name": "british-espionage-timeline",
   "version": "1.0.0",
-  "description": "A timeline of the cold war",
-  "repository": "https://github.com/jgumbley/cold-war-timeline",
+  "description": "A timeline of British Espionage",
+  "repository": "https://github.com/jgumbley/british-espionage",
   "dependencies": {
     "bower": "^1.4.1"
   },
