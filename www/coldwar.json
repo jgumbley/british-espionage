@@ -1,0 +1,32 @@
+{
+    "timeline":
+    {
+        "headline":"Cold War Timeline",
+        "type":"default",
+        "text":"<p>A selection of events relevant to the Cold War</p>",
+        "asset": {
+            "media":"img/nike_missiles.jpg",
+            "caption":"US Nike anti aircraft missiles"
+        },
+        "date": [
+            {
+                "startDate":"1945,06,08",
+                "headline":"Atomic bombings of Hiroshima and Nagasaki",
+                "text":"<p>In August 1945, during the final stage of the Second World War, the United States dropped atomic bombs on the Japanese cities of Hiroshima and Nagasaki. The two bombings, which killed at least 129,000 people, remain the only use of nuclear weapons for warfare in history.</p>",
+                "asset": {
+                    "media":"img/page1.png",
+                    "caption":"Atomic bombings of Hiroshima and Nagasaki"
+                }
+            }
+        ],
+        "era": [
+            {
+                "startDate":"1945,01,01",
+                "endDate":"1990,01,01",
+                "headline":"Cold War",
+                "text":"<p>Duration of the Cold War</p>"
+            }
+
+        ]
+    }
+}
