@@ -14,12 +14,28 @@
                 "headline":"Harold Wilson goes to Oxford"
             },
             {
+                "startDate":"1950",
+                "headline":"Philby & Angleton in Washington"
+            },
+            {
                 "startDate":"1961,12,15",
                 "headline":"Anatoliy Golitsyn defects"
             },
             {
+                "startDate":"1962,09,21",
+                "headline":"John Vassell exposed"
+            },
+            {
                 "startDate":"1963,01",
                 "headline":"Hugh Gaitskill death"
+            },
+            {
+                "startDate":"1963,07,01",
+                "headline":"Golitsyn in UK"
+            },
+            {
+                "startDate":"1963,07,01",
+                "headline":"Philby for moscow"
             },
             {
                 "startDate":"1964",
