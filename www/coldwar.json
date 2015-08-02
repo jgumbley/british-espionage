@@ -10,13 +10,108 @@
         },
         "date": [
             {
-                "startDate":"1921",
-                "headline":"Anthony Blunt meets Louis McNiece at Marlborough"
+                "startDate":"1907,09,26",
+                "headline":"Anthony Blunt is born"
             },
             {
+                "startDate":"1910,10,30",
+                "headline":"Victor Rothschild is born"
+            },
+            {
+                "startDate":"1912,01,01",
+                "headline":"Kim Philby is born"
+            },
+            {
+                "startDate":"1917,12,09",
+                "headline":"James Angleton is born"
+            },
+            {
+                "startDate":"1921",
+                "headline":"Anthony Blunt meets Louis McNiece at Marlborough",
+                "text": "<p>Charles Rothschild</p>",
+                "asset": {
+                    "media":"img/macniece.png",
+                    "caption":"Blunt and MacNeice at Marlborough"
+                }
+            },
+            {
+                "startDate":"1923",
+                "headline":"Rothschild's father suicide",
+                "text": "<p>Charles Rothschild</p>",
+                "asset": {
+                    "media":"img/charles_rothschild.jpg",
+                    "caption":"Charles Rothschild"
+                }
+            },
+            {
+                "startDate":"1924",
+                "headline":"Philby's father is dismissed by Colonial Office"
+            },
+            {
+                "startDate":"1925",
+                "headline":"Burgess (Navy) father dies of heart attack"
+            },
+            {
+                "startDate":"1926,09",
+                "headline":"Anthony Blunt arrives at Cambridge"
+            },
+            {
+                "startDate":"1927,10",
+                "headline":"Trotsky expelled"
+            },
+            {
+                "startDate":"1927,10",
+                "headline":"Anthony Blunt restarts his Cambridge course"
+            },
+            {
+                "startDate":"1928,05,05",
+                "headline":"Anthony Blunt is elected to Apostles"
+            },
+            {
+                "startDate":"1929",
+                "headline":"Anthony Blunt father dies",
+                "text": "<p>yo</p>",
+                "asset": {
+                    "media":"img/rev_blunt.jpg",
+                    "caption":"US Nike anti aircraft missiles"
+
+                }
+            },
+            {
+                "startDate":"1929,09",
+                "headline":"Kim Philby arrives at Cambridge"
+            },
+            {
+                "startDate":"1931,10",
+                "headline":"Collapse of Labour Government and National Government"
+            },
+            {
+                "startDate":"1931,12,16",
+                "headline":"Invergordon Mutiny"
+            },
+            {
+                "startDate":"1932,08",
+                "headline":"Maclean's father, Cabinet Minister, dies"
+            },
+            {
+                "startDate":"1932,11",
+                "headline":"Victor Rothschild & Guy Burgess join Apostles"
+            },
+            {
+                "startDate":"1933,04",
+                "headline":"Rothschild gives Blunt Elizer and Rebecca at the well"
+            },
+            {
+                "startDate":"1933",
+                "headline":"Rothschild marries Barbara Hutchinson"
+            },
             {
                 "startDate":"1934",
                 "headline":"Harold Wilson goes to Oxford"
+            },
+            {
+                "startDate":"1937",
+                "headline":"Anthony Blunt leaves Cambridge"
             },
             {
                 "startDate":"1950",
@@ -50,7 +145,6 @@
                 "startDate":"1964,10",
                 "headline":"Harold Wilson becomes prime-minister"
             }
-
         ],
         "era": [
             {
